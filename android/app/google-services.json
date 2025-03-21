@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "296018591232",
+        "project_id": "bridgeit-c7b05",
+        "storage_bucket": "bridgeit-c7b05.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:296018591232:android:933ff6bfdf28df6c52e2e5",
+                "android_client_info": {
+                    "package_name": "com.Level.bridgeit"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBBWpJm7-2stb2bVFeOzzZ3V43kaGoc4eQ"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
